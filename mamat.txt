@@ -1,2 +1,3 @@
 LIST DOMAINKU
 - https://xstoreid.biz.id
+- https://xstore.web.id
