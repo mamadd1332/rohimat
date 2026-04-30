@@ -1,6 +1,6 @@
 LIST DOMAINKU DI BRANCH DOMAIN
 
-
+123
 LISTKU domain yang on dan off
 
 on = digunakan
