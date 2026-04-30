@@ -3,6 +3,8 @@ LIST DOMAINKU DI BRANCH DOMAIN
 
 LISTKU domain yang on dan off
 
+on = digunakan
+off = belum dipakai
 - https://xstoreid.biz.id OFF
 - https://xstore.web.id ON
 - https://xwebstore.my.id OFF
