@@ -1,5 +1,5 @@
 LIST DOMAINKU DI BRANCH DOMAIN
-LISTKU
+LISTKU domain yang on
 - https://xstoreid.biz.id
 - https://xstore.web.id
 - https://xwebstore.my.id
