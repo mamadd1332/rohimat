@@ -1,4 +1,4 @@
-LIST DOMAINKU
+LIST DOMAINKU SEKARANG
 - https://xstoreid.biz.id
 - https://xstore.web.id
 - https://xwebstore.my.id
