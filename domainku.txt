@@ -2,7 +2,7 @@ LIST DOMAINKU DI BRANCH DOMAIN
 
 
 LISTKU domain yang on dan off
-
+12
 on = digunakan
 off = belum dipakai
 - https://xstoreid.biz.id OFF
